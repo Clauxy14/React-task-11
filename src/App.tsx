@@ -1,4 +1,3 @@
-import React from "react";
 import { JobList } from "./job-listing";
 import { jobs } from "./job";
 
